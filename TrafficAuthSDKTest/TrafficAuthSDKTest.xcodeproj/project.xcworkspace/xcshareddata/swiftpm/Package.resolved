@@ -1,0 +1,15 @@
+{
+  "originHash" : "9f609e71c3e44e8494c9d924b94a239398ffb975b7c1208bc99f542145641678",
+  "pins" : [
+    {
+      "identity" : "trafficauth-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TrafficAuth/trafficauth-sdk-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3219be053ed3a0e7b69518d12cc0cc2c265148c4"
+      }
+    }
+  ],
+  "version" : 3
+}
